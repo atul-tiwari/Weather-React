@@ -1,3 +1,17 @@
+# React Wather app
+
+the live wather app created with react with dynamic wallpaper and openwather api is used Modern UI Design , optimized for mobile use as well.
+
+## Author
+
+Atul Tiwari (atul-tiwari)
+
+Link :- [React Wather app "https://react-weather-7bd2f.web.app/"](https://react-weather-7bd2f.web.app/)
+
+#Screen Caps
+![Wather app pic](https://user-images.githubusercontent.com/24614316/107116944-cdb04400-689c-11eb-8322-01c3cfd0f06e.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
