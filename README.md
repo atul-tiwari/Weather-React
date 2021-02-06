@@ -8,7 +8,8 @@ Atul Tiwari (atul-tiwari)
 
 Link :- [React Wather app "https://react-weather-7bd2f.web.app/"](https://react-weather-7bd2f.web.app/)
 
-#Screen Caps
+## Screen Caps
+
 ![Wather app pic](https://user-images.githubusercontent.com/24614316/107116944-cdb04400-689c-11eb-8322-01c3cfd0f06e.jpg)
 
 
