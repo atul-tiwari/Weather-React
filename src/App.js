@@ -44,7 +44,7 @@ function App() {
   }
 
   useEffect(()=>{
-    fetchdata('new york');
+    fetchdata('london');
   },[]);
 
 
@@ -71,7 +71,6 @@ function App() {
                 alt ="icon" className="icon"/> {weather.weather[0].main}
               
             </div>
-            
           </div>
         </div>):('')}
       </main>
